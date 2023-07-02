@@ -1,9 +1,9 @@
-# [rsschool-cv](https://GITHUB-USERNAME.github.io/rsschool-cv/)
+# [rsschool-cv](https://Tursykhan.github.io/rsschool-cv/)
 # Tursunov Tursynkhan
 
 _A passionate web developer from Astana_ <br>
 
-+77761388540 / [Email](mailto:tursynkhan001@gmail.com) / [LinkedIn](https://www.linkedin.com/in/tursynkhan-tursunov-a64763211/) / [GitHub](https://github.com/Tursynkhan) 
++77761388540 | [Email](mailto:tursynkhan001@gmail.com) | [LinkedIn](https://www.linkedin.com/in/tursynkhan-tursunov-a64763211/) | [GitHub](https://github.com/Tursynkhan) 
 
 ## 💫 About me
 
@@ -30,7 +30,7 @@ performance.
 
 ## 📌 Projects
 
-**[Forum, Website](https://github.com/Tursynkhan/forum)** / _Go,JavaScript,net-http,SQLite,docker_
+**[Forum, Website](https://github.com/Tursynkhan/forum)** | _Go,JavaScript,net-http,SQLite,docker_
 
 - Developed a website-forum where people can hold conversations by posting messages.Created a sign-up, sign-in
 features for users. Passwords were secured by hashing algorithms.In addition, added a feature for filtering posts
@@ -39,7 +39,7 @@ based on keywords or categories
 Compose where we created local SQLite database. Tested software using Postman
 - Utilized the REST API principle and clean architecture in the development of my website-forum.
 
-**[SuperHero Database, Website](https://github.com/Tursynkhan/sortable)** / _Javascript , Fetch API, DOM_
+**[SuperHero Database, Website](https://github.com/Tursynkhan/sortable)** | _Javascript , Fetch API, DOM_
  
 - Developed a web application to organize and display data about superheroes using HTML, CSS, and JavaScript.
 - Utilized the fetch API to retrieve superhero information from a remote API.
