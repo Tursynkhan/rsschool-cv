@@ -1,4 +1,4 @@
-# [rsschool-cv](https://Tursykhan.github.io/rsschool-cv/)
+# [rsschool-cv](https://Tursynkhan.github.io/rsschool-cv/)
 # Tursunov Tursynkhan
 
 _A passionate web developer from Astana_ <br>
