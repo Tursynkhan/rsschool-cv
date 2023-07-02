@@ -1,8 +1,9 @@
+# [rsschool-cv](https://GITHUB-USERNAME.github.io/rsschool-cv/)
 # Tursunov Tursynkhan
 
 _A passionate web developer from Astana_ <br>
 
-+77761388540 | [Email](mailto:tursynkhan001@gmail.com) | [LinkedIn](https://www.linkedin.com/in/tursynkhan-tursunov-a64763211/) | [GitHub](https://github.com/Tursynkhan)
++77761388540 | [Email](mailto:tursynkhan001@gmail.com) | [LinkedIn](https://www.linkedin.com/in/tursynkhan-tursunov-a64763211/) | [GitHub](https://github.com/Tursynkhan) 
 
 ## 💫 About me
 
